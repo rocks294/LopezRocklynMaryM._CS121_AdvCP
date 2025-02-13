@@ -9,7 +9,7 @@ while n > 0:
     reversed = reversed * 10 + digit
     n //= 10
 if orig == reversed:
-    print ("Palindrome.")
+    print ("Palindrome")
 else:
-    print("Not a palindrome.")    
+    print("Not a palindrome")    
 
